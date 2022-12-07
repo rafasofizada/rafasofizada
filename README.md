@@ -1,5 +1,7 @@
 # Salam 🤝
 
+[RESUME](https://docs.google.com/document/d/1PVYtZArJdHwW9TAX3lf8tHeDizbrCXukz_q9uflzIf0/edit?usp=sharing)
+
 At the time of writing this README, I'm too tired and uninspired, so here is a TL;DR of my CV:
 
 - Been programming exclusively in Node.js over the past 4 years, so I have a pretty broad and deep knowledge of JS and the Node runtime, its APIs, etc.
