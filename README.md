@@ -1,6 +1,6 @@
 # Salam 🤝
 
-Hire me! rafa[dot]sofizadeh[at]popular_email_service_by_google
+Hire me! rafa[dot]sofizadeh[at]gmail
 
 [RESUME](https://docs.google.com/document/d/1PVYtZArJdHwW9TAX3lf8tHeDizbrCXukz_q9uflzIf0/edit?usp=sharing)
 
